@@ -39,7 +39,7 @@ export default function NavbarUmum() {
 
   const navLinks = [
     { href: '/', label: 'Home' },
-    { href: '/services', label: 'Services' },
+    { href: '/servicess', label: 'Services' },
     { href: '/portfolio', label: 'Portfolio' },
     { href: '/contact', label: 'Contact' },
     { href: '/login', label: 'Login' },
