@@ -1,5 +1,5 @@
 // src/app/contact/page.tsx
-import Footer from '../components/Footer'; // Sesuaikan path jika berbeda
+import Footer from '../../components/Footer'; // Sesuaikan path jika berbeda
 
 export default function ContactPage() {
   return (

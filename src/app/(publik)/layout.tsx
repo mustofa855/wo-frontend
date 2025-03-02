@@ -1,6 +1,6 @@
 // src/app/layout.tsx
-import './globals.css';
-import NavbarUmum from './components/NavbarUmum';
+import '../globals.css';
+import NavbarUmum from '../components/NavbarUmum';
 
 export const metadata = {
   title: 'Wedding Organizer',
